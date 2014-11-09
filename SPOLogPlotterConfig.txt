@@ -1,0 +1,20 @@
+{
+"colourChartEnabled":true,
+"fancyGadgets":true,
+"outputLocation":"something/something.txt",
+"CSV_to_load":"spo-nx_calibration.log",
+"timeFormat":"%Y-%m-%d %H:%M:%S.%f",
+"plottingEnabled":true,
+"plots":[
+	["Timestamp","Hot Cal Tgt Temp","Cold Cal Tgt Temp"],
+	["Timestamp","Ac"],
+	["Hot Cal Tgt Temp","Ac"]
+	],
+"csvEnabled":true,
+"csvs":[
+	["Timestamp","Ac"]
+	],
+"csvOutputFile":[
+	      ["TimeVsGain.txt"]
+	     ]
+}
