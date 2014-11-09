@@ -9,7 +9,7 @@ The config file is very important. Keep formatting identical.
 The script loads this as a JSON object - it is sensitive to formatting.
 Google will help with any errors that point to the config file.
 
-Will NOT run on python 2.7 without proper install of matplotlib (needs the 32-bit edition)
+Will NOT run on python 2.7 without proper install of matplotlib (needs the 32-bit edition of python & numpy)
 
 
 ** To change the plots **
